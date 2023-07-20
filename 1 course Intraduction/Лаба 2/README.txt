@@ -1,0 +1,43 @@
+Бұл лабада тек styles.css - тің ішіндегісін полностью сайттағыға салу керек.
+
+
+
+
+PS: Если не понял, вот текст что нужно вставить в пустой файл 'styles.css' на сайте:
+
+body {
+    background-color: #E0E0E2;
+}
+
+h1 {
+    color: #721817;
+}
+
+h2 {
+    color: #721817; // Можно просто в верхнем селекторе h1, h2 сделать,
+                    // но скорее всего проверку это не пройдёт.
+}
+
+.center-text {
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+h2 > span {
+    color: #fa9f42;
+    font-size: 0.75em;
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
+}
+
+span {
+    color: #fa9f42;
+    font-size: 0.75em;
+}

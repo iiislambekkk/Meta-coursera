@@ -1,0 +1,11 @@
+Controle + V, Controle + C.
+
+<!Doctype html>
+<html>
+<head>
+    <title>My First HTML Documentt</title>
+</head>
+<body>
+I successfully created my first document
+</body>
+</html>
